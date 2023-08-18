@@ -1,6 +1,6 @@
 #  🌌Stellar Insights: Exploring Exoplanets Through EDA
 
-## About the Project
+## 🧾About the Project
 
 Introduction
 "Exploring Exoplanets: A Fusion of Astronomy and Data Analysis." This project encapsulates my passion for both the mysteries of the universe and the insights that data can reveal. By blending the realms of astronomy and data analysis, I've embarked on a journey to uncover the stories hidden within exoplanet discovery data.In this project I mainly using R programming for EDA.
@@ -13,7 +13,7 @@ What are Exoplanets? Exoplanets, or extrasolar planets, are planets that orbit s
 
 Significance of Exoplanets: The study of exoplanets has not only expanded our cosmic horizons but has also opened new avenues for exploring the possibility of habitable worlds beyond our solar system.
 
-# Project Overview
+#📚 Project Overview
 Objectives:
 
 -Analyze exoplanet discovery methods over time
@@ -35,9 +35,9 @@ Beginning with the extraction of distinctive discovery types and years, this pro
 Yearly Trends
 A comprehensive visualization, created using a grouped chart, elucidates the annual distribution of unique discovery types. This graphic unveils the dynamic landscape of exoplanet discoveries over the years and elucidates pivotal trends in the prevalence of different identification methods.
 
- **Walk through the google colab [![Open in Colab](https://colab.research.google.com/github/MubeenaHussain/MubeenaHussain/blob/main/R_WITH_GOOGLE_COLAB.ipynb)] to understand the approach more comprehensively*.
+ **Walk through the google colab [![here](https://colab.research.google.com/github/MubeenaHussain/MubeenaHussain/blob/main/R_WITH_GOOGLE_COLAB.ipynb)] to understand the approach more comprehensively*.
 
-# Insights and Discoveries
+#💡 Insights and Discoveries
 Our analysis paints a vivid picture of how exoplanet discovery has evolved over the years, starting from 1989. The patterns in the distribution of various discovery types unveil fascinating trends that closely mirror the advancements in observation methods and technology.
 
 
