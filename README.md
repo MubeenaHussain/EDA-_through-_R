@@ -13,7 +13,7 @@ What are Exoplanets? Exoplanets, or extrasolar planets, are planets that orbit s
 
 Significance of Exoplanets: The study of exoplanets has not only expanded our cosmic horizons but has also opened new avenues for exploring the possibility of habitable worlds beyond our solar system.
 
-#📚 Project Overview
+# 📚 Project Overview
 Objectives:
 
 -Analyze exoplanet discovery methods over time
@@ -37,12 +37,18 @@ A comprehensive visualization, created using a grouped chart, elucidates the ann
 
  **Walk through the google colab [![here](https://colab.research.google.com/github/MubeenaHussain/MubeenaHussain/blob/main/R_WITH_GOOGLE_COLAB.ipynb)] to understand the approach more comprehensively*.
 
-#💡 Insights and Discoveries
-Our analysis paints a vivid picture of how exoplanet discovery has evolved over the years, starting from 1989. The patterns in the distribution of various discovery types unveil fascinating trends that closely mirror the advancements in observation methods and technology.
+# 💡 Insights and Discoveries
+Our analysis paints a vivid picture of how exoplanet discovery has evolved over the years, starting from 1989. The patterns in the distribution of various discovery types unveil fascinating trends that closely mirror the advancements in observation methods and technology.The visual representation of our findings, depicted in the graph below,![bar graph](https://www.canva.com/join/nhn-svt-lrr)
+ portrays the evolution of exoplanet discoveries over the years. Each bar on the graph represents a unique discovery type, while the shifting heights mirror the progress in observational techniques and technological advancements.
 
+This visualization captures the very essence of the changes that have shaped the field since its inception in 1989. The gradual rise and fall of each bar reflect the ebb and flow of discovery methodologies, shedding light on the collective efforts of astronomers and scientists.
 
+As we traverse this dynamic landscape through the lens of Exploratory Data Analysis (EDA), we uncover patterns and trends that offer a deeper understanding of our universe. These findings transcend the mere numbers, revealing the intricate interplay between human curiosity and technological innovation.
+
+Our journey through the cosmos, guided by data analysis techniques and inspired by the beauty of astronomy, has yielded invaluable insights into the fascinating world of exoplanets. It's a testament to the power of combining scientific inquiry with data-driven exploration, painting a vivid picture of our continuous quest to unravel the mysteries of the universe.
 
 Our voyage through the cosmos using Exploratory Data Analysis (EDA) has illuminated captivating aspects of the exoplanet exploration journey. By merging data analysis techniques with the wonders of astronomy, we've uncovered profound insights into the patterns that govern exoplanet discoveries. 
+
 
 
 
