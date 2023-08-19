@@ -38,8 +38,8 @@ A comprehensive visualization, created using a grouped chart, elucidates the ann
  **Walk through the google colab [here](https://colab.research.google.com/github/MubeenaHussain/MubeenaHussain/blob/main/R_WITH_GOOGLE_COLAB.ipynb) to understand the approach more comprehensively*.
 
 # 💡 Insights and Discoveries
-Our analysis paints a vivid picture of how exoplanet discovery has evolved over the years, starting from 1989. The patterns in the distribution of various discovery types unveil fascinating trends that closely mirror the advancements in observation methods and technology.The visual representation of our findings, depicted in the graph below,[bar graph](https://www.canva.com/join/nhn-svt-lrr)
- portrays the evolution of exoplanet discoveries over the years. Each bar on the graph represents a unique discovery type, while the shifting heights mirror the progress in observational techniques and technological advancements.
+Our analysis paints a vivid picture of how exoplanet discovery has evolved over the years, starting from 1989. The patterns in the distribution of various discovery types unveil fascinating trends that closely mirror the advancements in observation methods and technology.The visual representation of our findings, depicted in the graph [here](https://public.flourish.studio/story/2008552/)
+portrays the evolution of exoplanet discoveries over the years. Each bar on the graph represents a unique discovery type, while the shifting heights mirror the progress in observational techniques and technological advancements.
 
 This visualization captures the very essence of the changes that have shaped the field since its inception in 1989. The gradual rise and fall of each bar reflect the ebb and flow of discovery methodologies, shedding light on the collective efforts of astronomers and scientists.
 
